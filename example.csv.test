@@ -1,0 +1,5 @@
+name,description,vlanid,state,mtu,inet
+spam,spam,1,up,1500,192.168.1.1
+eggs,eggs,2,up,1500,192.168.1.2
+sausage,sausage,3,up,9000,192.168.1.3
+

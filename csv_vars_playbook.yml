@@ -1,0 +1,17 @@
+---
+- hosts: localhost
+  connection: local
+  become: false
+  gather_facts: false
+  tasks:
+    - name: parse csv and make vars file
+      command: "python csv_to_yaml.py example.csv"
+ 
+- hosts: localhost
+  connection: local
+  become: false
+  gather_facts: false
+  vars_files:
+    - example.csv.yml
+  tasks:
+    - debug: var=csv_data

@@ -1,0 +1,587 @@
+csv_data:
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '64', Memory Recommendation: '11.36',
+  Name: DEVAPPMSTM40}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '0.5',
+  Name: EAGNMNSGB7C}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '0.5',
+  Name: EAGNMNSGB7D}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '6.96',
+  Name: EAGNMNSS086}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '5.56',
+  Name: EAGNMNSS08B}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '5.87',
+  Name: EAGNMNSS08C}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '8', Memory Recommendation: '2.31',
+  Name: EAGNMNSS185}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '8', Memory Recommendation: '3.16',
+  Name: EAGNMNSS186}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '1.94',
+  Name: EAGNMNSS187}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '8', Memory Recommendation: '2.27',
+  Name: EAGNMNSS188}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '8', Memory Recommendation: '2.34',
+  Name: EAGNMNSS189}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '8', Memory Recommendation: '2.06',
+  Name: EAGNMNSS18A}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '4', Memory Recommendation: '3.05',
+  Name: EAGNMNSS190}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '4', Memory Recommendation: '2.9',
+  Name: EAGNMNSS191}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '7.4',
+  Name: EAGNMNSS1CE}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '4', Memory Recommendation: '1.79',
+  Name: EAGNMNSS20F}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '4', Memory Recommendation: '1.73',
+  Name: EAGNMNSS210}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '40.86',
+  Name: EAGNMNSS259}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '72', Memory Recommendation: '11.16',
+  Name: EAGNMNSS25A}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '4.36',
+  Name: EAGNMNSS262}
+- {CPU Provisioned: '12', CPU Recommendation: '2', Memory Provisioned: '48', Memory Recommendation: '20.3',
+  Name: EAGNMNSS36B}
+- {CPU Provisioned: '12', CPU Recommendation: '2', Memory Provisioned: '48', Memory Recommendation: '20.98',
+  Name: EAGNMNSS36C}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '24', Memory Recommendation: '5.6',
+  Name: EAGNMNSS3C9}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '24', Memory Recommendation: '6.53',
+  Name: EAGNMNSS3CA}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '4', Memory Recommendation: '2.08',
+  Name: EAGNMNSX897}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '7.63',
+  Name: EAGNMNSXMB104}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '4.93',
+  Name: EAGNMNSXMHC100}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '7.3',
+  Name: EAGNMNSXMHC102}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '8', Memory Recommendation: '2.58',
+  Name: EAGNMNTWE1BA4}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '3.49',
+  Name: EAGNMNTWE1BA5}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '3.69',
+  Name: EAGNMNTWE1BA6}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '3.81',
+  Name: EAGNMNTWE1BA7}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '7.64',
+  Name: EAGNMNTWE1BA8}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '8.81',
+  Name: EAGNMNTWE1BA9}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '20', Memory Recommendation: '3.28',
+  Name: EAGNMNTWE1C05}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '20', Memory Recommendation: '5.03',
+  Name: EAGNMNTWE1C07}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '3.92',
+  Name: EAGNMNTWE1C08}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '3.64',
+  Name: EAGNMNTWE1C09}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '3.69',
+  Name: EAGNMNTWE1C0A}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '20', Memory Recommendation: '5.01',
+  Name: EAGNMNTWE1C0B}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '4.07',
+  Name: EAGNMNTWE1C0C}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '15.62', Memory Recommendation: '4.19',
+  Name: EAGNMNWBC104F}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '9.89',
+  Name: EAGNMNWBC1050}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '3.67',
+  Name: EAGNMNWBC105A}
+- {CPU Provisioned: '8', CPU Recommendation: '3', Memory Provisioned: '16', Memory Recommendation: '3.7',
+  Name: EAGNMNWBC105B}
+- {CPU Provisioned: '10', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '2.7',
+  Name: EAGNMNWBC1062}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '4.8',
+  Name: EAGNMNWBC1063}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '4.04',
+  Name: EAGNMNWBC107F}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '3.6',
+  Name: EAGNMNWBC1080}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '1.93',
+  Name: EAGNMNWBC108D}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '12', Memory Recommendation: '4.43',
+  Name: EAGNMNWBC112F}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '12', Memory Recommendation: '3.66',
+  Name: EAGNMNWBC1130}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '1.5',
+  Name: EAGNMNWBC1131}
+- {CPU Provisioned: '10', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '2.31',
+  Name: EAGNMNWBC1140}
+- {CPU Provisioned: '8', CPU Recommendation: '3', Memory Provisioned: '24', Memory Recommendation: '5.71',
+  Name: EAGNMNWBC1157}
+- {CPU Provisioned: '12', CPU Recommendation: '3', Memory Provisioned: '24', Memory Recommendation: '5.87',
+  Name: EAGNMNWBC1158}
+- {CPU Provisioned: '12', CPU Recommendation: '3', Memory Provisioned: '24', Memory Recommendation: '5.95',
+  Name: EAGNMNWBC1159}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '5.03',
+  Name: EAGNMNWBD1009}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '4.37',
+  Name: EAGNMNWBD100B}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '4.83',
+  Name: EAGNMNWBD100D}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '12.8',
+  Name: EAGNMNWBD10D5}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '7.39',
+  Name: EAGNMNWBD111F}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '24', Memory Recommendation: '9.42',
+  Name: EAGNMNWBD1AC}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '13.75',
+  Name: SAMTCASXD08}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '13.68',
+  Name: SAMTCASXD09}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '6.6',
+  Name: SAMTCASXD0A}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '6.89',
+  Name: SAMTCASXD0B}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '10',
+  Name: SAMTCASXMB102}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '5.5',
+  Name: SAMTCASXMB104}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '7.63',
+  Name: SAMTCASXMHC101}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '6.64',
+  Name: SAMTCASXMHC102}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '10.09',
+  Name: SAMTCASXMHC88}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '64', Memory Recommendation: '1.92',
+  Name: TSTAPPM10}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '7.86',
+  Name: eagnmncom0d42.usps.com}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '11.93',
+  Name: eagnmncom0d43.usps.com}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '7.01',
+  Name: eagnmncom0d44.usps.com}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '7.18',
+  Name: eagnmncom0d53.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '6.91',
+  Name: eagnmncom0d54.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '6.94',
+  Name: eagnmncom0d55.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '3', Memory Provisioned: '32', Memory Recommendation: '10.21',
+  Name: eagnmncom0d56.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '3', Memory Provisioned: '32', Memory Recommendation: '10.06',
+  Name: eagnmncom0d57.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '7.66',
+  Name: eagnmncom0d58.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '1.48',
+  Name: eagnmncom0d7d.usps.com}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '1.77',
+  Name: eagnmncom0d7e.usps.com}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '2.51',
+  Name: eagnmncom0d7f.usps.com}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '5.92',
+  Name: eagnmncom0dda.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '5.18',
+  Name: eagnmncom0ddb.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '3', Memory Provisioned: '32', Memory Recommendation: '8.77',
+  Name: eagnmncom0ddc.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '8.04',
+  Name: eagnmncom0ddd.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '3', Memory Provisioned: '32', Memory Recommendation: '9.6',
+  Name: eagnmncom0dde.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '3', Memory Provisioned: '32', Memory Recommendation: '13.82',
+  Name: eagnmncom0dea}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '9.59',
+  Name: eagnmncom0deb}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '9.84',
+  Name: eagnmncom0dec}
+- {CPU Provisioned: '8', CPU Recommendation: '5', Memory Provisioned: '48', Memory Recommendation: '8.38',
+  Name: eagnmncom0eb6.usps.com}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '48', Memory Recommendation: '4.94',
+  Name: eagnmncom0eb7.usps.com}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '24', Memory Recommendation: '12.88',
+  Name: eagnmnmbd070.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '31', Memory Provisioned: '256', Memory Recommendation: '55.36',
+  Name: eagnmnmbd096.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '24', Memory Recommendation: '3.06',
+  Name: eagnmnmbd0dd.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '8.2',
+  Name: eagnmnmbd12d}
+- {CPU Provisioned: '16', CPU Recommendation: '2', Memory Provisioned: '24', Memory Recommendation: '4.5',
+  Name: eagnmnmbd217}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '2.51',
+  Name: eagnmnmbd264}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '16', Memory Recommendation: '3.5',
+  Name: eagnmnmbd265}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '5.02',
+  Name: eagnmnmbd27f.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '50', Memory Recommendation: '9.7',
+  Name: eagnmnmbd286}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '50', Memory Recommendation: '9.93',
+  Name: eagnmnmbd287}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '50', Memory Recommendation: '9.71',
+  Name: eagnmnmbd288}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '50', Memory Recommendation: '9.76',
+  Name: eagnmnmbd289}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '10.69',
+  Name: eagnmnmbd28a}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '10.79',
+  Name: eagnmnmbd28b}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '10.34',
+  Name: eagnmnmbd28c}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '10.54',
+  Name: eagnmnmbd28d}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '64', Memory Recommendation: '2.16',
+  Name: eagnmnmbq02d.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '25', Memory Provisioned: '256', Memory Recommendation: '56.91',
+  Name: eagnmnmbq0a9.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '2.85',
+  Name: eagnmnmbq0c4.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '2.36',
+  Name: eagnmnmbq0c5.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '2.91',
+  Name: eagnmnmbq0c6.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '2.45',
+  Name: eagnmnmbq0c7.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '0.88',
+  Name: eagnmnmed0ba.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '7.83',
+  Name: eagnmnmed1040}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '8.96',
+  Name: eagnmnmed1041}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '9.57',
+  Name: eagnmnmed1042}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '4.48',
+  Name: eagnmnmed1043}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.76',
+  Name: eagnmnmed1044}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '4.62',
+  Name: eagnmnmed1045}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '4.71',
+  Name: eagnmnmed1046}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '4.22',
+  Name: eagnmnmed1047}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '4.07',
+  Name: eagnmnmed1048}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.59',
+  Name: eagnmnmed1049}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.75',
+  Name: eagnmnmed104a}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.62',
+  Name: eagnmnmed104b}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '17.39',
+  Name: eagnmnmed104c}
+- {CPU Provisioned: '32', CPU Recommendation: '13', Memory Provisioned: '256', Memory Recommendation: '19.05',
+  Name: eagnmnmed104d}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '19.27',
+  Name: eagnmnmed104e}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '18.19',
+  Name: eagnmnmed104f}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '4.04',
+  Name: eagnmnmed1050}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '16.26',
+  Name: eagnmnmed1051}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '12.47',
+  Name: eagnmnmed1052}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '16.23',
+  Name: eagnmnmed1053}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '14.73',
+  Name: eagnmnmed1054}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '4.3',
+  Name: eagnmnmed1055}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.93',
+  Name: eagnmnmed1056}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '4.18',
+  Name: eagnmnmed1057}
+- {CPU Provisioned: '32', CPU Recommendation: '8', Memory Provisioned: '188', Memory Recommendation: '39.11',
+  Name: eagnmnmed1402}
+- {CPU Provisioned: '32', CPU Recommendation: '11', Memory Provisioned: '188', Memory Recommendation: '38.74',
+  Name: eagnmnmed1403}
+- {CPU Provisioned: '16', CPU Recommendation: '4', Memory Provisioned: '128', Memory Recommendation: '21.85',
+  Name: eagnmnmed1457}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '128', Memory Recommendation: '7.52',
+  Name: eagnmnmed1458}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '128', Memory Recommendation: '9.95',
+  Name: eagnmnmed1459}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '64', Memory Recommendation: '1.71',
+  Name: eagnmnmed145a}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '64', Memory Recommendation: '2.12',
+  Name: eagnmnmed145b}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '64', Memory Recommendation: '1.8',
+  Name: eagnmnmed145c}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '128', Memory Recommendation: '9.8',
+  Name: eagnmnmed145d}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '128', Memory Recommendation: '10.85',
+  Name: eagnmnmed145e}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '128', Memory Recommendation: '4.44',
+  Name: eagnmnmed145f}
+- {CPU Provisioned: '16', CPU Recommendation: '8', Memory Provisioned: '128', Memory Recommendation: '11.63',
+  Name: eagnmnmed1460}
+- {CPU Provisioned: '16', CPU Recommendation: '11', Memory Provisioned: '128', Memory Recommendation: '11.92',
+  Name: eagnmnmed1461}
+- {CPU Provisioned: '16', CPU Recommendation: '7', Memory Provisioned: '128', Memory Recommendation: '14.77',
+  Name: eagnmnmed1462}
+- {CPU Provisioned: '16', CPU Recommendation: '6', Memory Provisioned: '128', Memory Recommendation: '15.5',
+  Name: eagnmnmed1463}
+- {CPU Provisioned: '32', CPU Recommendation: '13', Memory Provisioned: '188', Memory Recommendation: '37.82',
+  Name: eagnmnmed1465.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '7', Memory Provisioned: '188', Memory Recommendation: '37.11',
+  Name: eagnmnmed1466.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '14', Memory Provisioned: '188', Memory Recommendation: '42.16',
+  Name: eagnmnmed1467.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '6.54',
+  Name: eagnmnmed19a8}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '64', Memory Recommendation: '3.95',
+  Name: eagnmnmed19a9}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '64', Memory Recommendation: '1.98',
+  Name: eagnmnmed19aa}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '7.91',
+  Name: eagnmnmed5e1}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '10.65',
+  Name: eagnmnmed5e2}
+- {CPU Provisioned: '24', CPU Recommendation: '2', Memory Provisioned: '300', Memory Recommendation: '4.12',
+  Name: eagnmnmed725}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '24', Memory Recommendation: '4.12',
+  Name: eagnmnmed7c2.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '4.76',
+  Name: eagnmnmed7d0.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '3.17',
+  Name: eagnmnmed7d1.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '6.75',
+  Name: eagnmnmed7d2.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '7.14',
+  Name: eagnmnmed7d3.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '7.71',
+  Name: eagnmnmedaa4.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '11.54',
+  Name: eagnmnmedaa5.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '48', Memory Recommendation: '8.19',
+  Name: eagnmnmedaac.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '11.81',
+  Name: eagnmnmedaad.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '5.2',
+  Name: eagnmnmedac0}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '7.32',
+  Name: eagnmnmedb1c.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '16', Memory Recommendation: '8.96',
+  Name: eagnmnmedb1d.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '7.59',
+  Name: eagnmnmedb1e.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '8.81',
+  Name: eagnmnmedb1f.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '4.01',
+  Name: eagnmnmedb4b.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '4', Memory Recommendation: '1.97',
+  Name: eagnmnmedb8f.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '2.12',
+  Name: eagnmnmedb90.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '2.3',
+  Name: eagnmnmedb91.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '2.21',
+  Name: eagnmnmedb92.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '2.94',
+  Name: eagnmnmedb93.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '4.5',
+  Name: eagnmnmedbee.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.46',
+  Name: eagnmnmedbf2.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '7.35',
+  Name: eagnmnmedbf3.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.5',
+  Name: eagnmnmedbf4.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.42',
+  Name: eagnmnmedbf5.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '6.79',
+  Name: eagnmnmedc00.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '3.34',
+  Name: eagnmnmedc01.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '2.97',
+  Name: eagnmnmedc02.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '8', Memory Recommendation: '3.09',
+  Name: eagnmnmedc03.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '192', Memory Recommendation: '20.17',
+  Name: eagnmnmedc79.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '192', Memory Recommendation: '19.55',
+  Name: eagnmnmedc7a.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '192', Memory Recommendation: '13.66',
+  Name: eagnmnmedc7b.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '192', Memory Recommendation: '19.67',
+  Name: eagnmnmedc7c.usps.gov}
+- {CPU Provisioned: '9', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '18.99',
+  Name: eagnmnmedc7f.usps.gov}
+- {CPU Provisioned: '24', CPU Recommendation: '1', Memory Provisioned: '24', Memory Recommendation: '3.49',
+  Name: eagnmnmeq051.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '4.08',
+  Name: eagnmnmeq105a.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '4.01',
+  Name: eagnmnmeq105b.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '64', Memory Recommendation: '4.57',
+  Name: eagnmnmeq10b1.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '3', Memory Provisioned: '64', Memory Recommendation: '3.92',
+  Name: eagnmnmeq10b2.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '3', Memory Provisioned: '64', Memory Recommendation: '4.02',
+  Name: eagnmnmeq10b3.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '6', Memory Provisioned: '64', Memory Recommendation: '10.56',
+  Name: eagnmnmeq10b4.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '64', Memory Recommendation: '2.5',
+  Name: eagnmnmeq1119}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '4.44',
+  Name: eagnmnmeq1138}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '48', Memory Recommendation: '2.28',
+  Name: eagnmnmeq1142}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.4',
+  Name: eagnmnmeq1143}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.66',
+  Name: eagnmnmeq1144}
+- {CPU Provisioned: '16', CPU Recommendation: '3', Memory Provisioned: '32', Memory Recommendation: '6.74',
+  Name: eagnmnmeq1192.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '6.53',
+  Name: eagnmnmeq1193.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '2.49',
+  Name: eagnmnmeq12d6}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '2.54',
+  Name: eagnmnmeq12d7}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '4.23',
+  Name: eagnmnmeq12d8}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '3.88',
+  Name: eagnmnmeq12d9}
+- {CPU Provisioned: '8', CPU Recommendation: '3', Memory Provisioned: '48', Memory Recommendation: '11.21',
+  Name: eagnmnmeq12e1.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '48', Memory Recommendation: '8.65',
+  Name: eagnmnmeq12e2.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '48', Memory Recommendation: '9.7',
+  Name: eagnmnmeq12e3.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '48', Memory Recommendation: '3.62',
+  Name: eagnmnmeq12e4.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '3.35',
+  Name: eagnmnmeq12e5.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '2.36',
+  Name: eagnmnmeq12e6.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '8.52',
+  Name: eagnmnmeq12e7.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '2.65',
+  Name: eagnmnmeq12e8.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '48', Memory Recommendation: '10.86',
+  Name: eagnmnmeq137c.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '4.48',
+  Name: eagnmnmeq137d.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '3.88',
+  Name: eagnmnmeq13eb.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '9.33',
+  Name: eagnmnmeq13ec.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '96', Memory Recommendation: '3.61',
+  Name: eagnmnmeq13ed.usps.gov}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '1.82',
+  Name: eagnmnmeq1427}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '1.55',
+  Name: eagnmnmeq1428}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '1.91',
+  Name: eagnmnmeq1429}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '16', Memory Recommendation: '1.85',
+  Name: eagnmnmeq142a}
+- {CPU Provisioned: '32', CPU Recommendation: '10', Memory Provisioned: '256', Memory Recommendation: '38.88',
+  Name: eagnmnmeq1460}
+- {CPU Provisioned: '32', CPU Recommendation: '10', Memory Provisioned: '256', Memory Recommendation: '32.62',
+  Name: eagnmnmeq1461}
+- {CPU Provisioned: '32', CPU Recommendation: '12', Memory Provisioned: '256', Memory Recommendation: '33.94',
+  Name: eagnmnmeq1462}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '256', Memory Recommendation: '4.21',
+  Name: eagnmnmeq1463}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.97',
+  Name: eagnmnmeq1464}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '5.89',
+  Name: eagnmnmeq1465}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '4.48',
+  Name: eagnmnmeq1466}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '6.07',
+  Name: eagnmnmeq1467}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '6.5',
+  Name: eagnmnmeq1468}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.5',
+  Name: eagnmnmeq1469}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.59',
+  Name: eagnmnmeq146a}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '256', Memory Recommendation: '3.57',
+  Name: eagnmnmeq146b}
+- {CPU Provisioned: '8', CPU Recommendation: '6', Memory Provisioned: '48', Memory Recommendation: '5.55',
+  Name: eagnmnmeq14c2}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.61',
+  Name: eagnmnmeq14c3}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.96',
+  Name: eagnmnmeq14c4}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.48',
+  Name: eagnmnmeq14c5}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.71',
+  Name: eagnmnmeq14c6}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.66',
+  Name: eagnmnmeq14c7}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.49',
+  Name: eagnmnmeq14c8}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.42',
+  Name: eagnmnmeq14c9}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.59',
+  Name: eagnmnmeq14ca}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.39',
+  Name: eagnmnmeq14cb}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.49',
+  Name: eagnmnmeq14cc}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '48', Memory Recommendation: '1.55',
+  Name: eagnmnmeq14cd}
+- {CPU Provisioned: '11', CPU Recommendation: '3', Memory Provisioned: '16', Memory Recommendation: '2.96',
+  Name: eagnmnmeq170.usps.gov}
+- {CPU Provisioned: '9', CPU Recommendation: '1', Memory Provisioned: '24', Memory Recommendation: '4.25',
+  Name: eagnmnmeq1e1.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '9.34',
+  Name: eagnmnmeq821}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '9.41',
+  Name: eagnmnmeq822}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '132', Memory Recommendation: '13.06',
+  Name: eagnmnmeq823.usps.gov}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '127.98', Memory Recommendation: '10.66',
+  Name: eagnmnmeq824.usps.gov}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '124.53', Memory Recommendation: '15.52',
+  Name: eagnmnmeq825.usps.gov}
+- {CPU Provisioned: '12', CPU Recommendation: '1', Memory Provisioned: '131.52', Memory Recommendation: '11.29',
+  Name: eagnmnmeq826.usps.gov}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '5',
+  Name: eagnmnmeq8b1}
+- {CPU Provisioned: '16', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '3.01',
+  Name: eagnmnmeq8b2}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '32', Memory Recommendation: '5.86',
+  Name: eagnmnmeq93e.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '32', Memory Recommendation: '5.76',
+  Name: eagnmnmeq93f.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '128', Memory Recommendation: '2.8',
+  Name: eagnmnmeq9c0.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '128', Memory Recommendation: '12.94',
+  Name: eagnmnmeq9c1.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '128', Memory Recommendation: '3.35',
+  Name: eagnmnmeq9c2.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '2', Memory Provisioned: '128', Memory Recommendation: '6.4',
+  Name: eagnmnmeq9c3.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '4.89',
+  Name: eagnmnmeqa85.usps.com}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '4.73',
+  Name: eagnmnmeqa86.usps.com}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '4.85',
+  Name: eagnmnmeqa87.usps.com}
+- {CPU Provisioned: '8', CPU Recommendation: '1', Memory Provisioned: '32', Memory Recommendation: '4.72',
+  Name: eagnmnmeqa88.usps.com}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '191', Memory Recommendation: '15.97',
+  Name: eagnmnmeqef8.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '192', Memory Recommendation: '14.45',
+  Name: eagnmnmeqef9.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '192', Memory Recommendation: '14.24',
+  Name: eagnmnmeqefa.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '1', Memory Provisioned: '192', Memory Recommendation: '7.72',
+  Name: eagnmnmeqefb.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '2', Memory Provisioned: '192', Memory Recommendation: '8.95',
+  Name: eagnmnmeqefc.usps.gov}
+- {CPU Provisioned: '32', CPU Recommendation: '3', Memory Provisioned: '192', Memory Recommendation: '13',
+  Name: eagnmnmeqefd.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '6', Memory Provisioned: '64', Memory Recommendation: '7.09',
+  Name: eagnmnmeqf04.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '6', Memory Provisioned: '64', Memory Recommendation: '5.18',
+  Name: eagnmnmeqf05.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '7', Memory Provisioned: '64', Memory Recommendation: '10.61',
+  Name: eagnmnmeqf06.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '6', Memory Provisioned: '64', Memory Recommendation: '4.39',
+  Name: eagnmnmeqf07.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '64', Memory Recommendation: '7.03',
+  Name: eagnmnmeqf0d.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '64', Memory Recommendation: '4.53',
+  Name: eagnmnmeqf0e.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '64', Memory Recommendation: '6.63',
+  Name: eagnmnmeqf0f.usps.gov}
+- {CPU Provisioned: '8', CPU Recommendation: '4', Memory Provisioned: '64', Memory Recommendation: '6.66',
+  Name: eagnmnmeqf10.usps.gov}
